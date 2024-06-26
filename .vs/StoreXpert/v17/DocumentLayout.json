@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|c:\\users\\dell\\source\\repos\\storexpert\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|C:\\Users\\Dell\\source\\repos\\StoreXpert\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|C:\\Users\\Dell\\source\\repos\\StoreXpert\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|C:\\Users\\Dell\\source\\repos\\StoreXpert\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|C:\\Users\\Dell\\source\\repos\\StoreXpert\\visu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:visu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|C:\\Users\\Dell\\source\\repos\\StoreXpert\\visu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:visu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|C:\\Users\\Dell\\source\\repos\\StoreXpert\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB419B9E-7750-4C36-8C3A-56D33CE111FE}|StoreXpert.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Menu.Designer.cs",
+              "RelativeToolTip": "Menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:52:00.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "visu.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\visu.cs",
+              "RelativeDocumentMoniker": "visu.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\visu.cs",
+              "RelativeToolTip": "visu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:03:10.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "visu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\visu.cs",
+              "RelativeDocumentMoniker": "visu.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\visu.cs [Design]",
+              "RelativeToolTip": "visu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:49:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAxwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:08:31.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Cadastro.cs [Design]",
+              "RelativeToolTip": "Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:02:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:09:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StoreXpert\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:51:07.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
